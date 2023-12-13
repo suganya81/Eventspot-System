@@ -59,8 +59,8 @@ The Eventspot System is built using a combination of modern technologies:
 - **Tailwind CSS**: Used for modular and adaptable UI styling, ensuring a consistent and attractive design.
 - **MySQL**: Manages database operations, offering efficient data storage and retrieval for member and event information.
 
+
 ## Development
-The development process is split into two main areas:
 
 ### Frontend
 The frontend of the Eventspot System is developed using React, TypeScript, and Tailwind CSS, focusing on creating a user-friendly, responsive interface.
@@ -72,8 +72,8 @@ The backend logic is implemented in TypeScript (or an alternative language), ens
 #### MySQL
 Integration with MySQL for database management, handling all data related to members and events.
 
-## Installation Guide for Eventspot System
-Refer to the [Installation Guide](#installation-guide-for-eventspot-system) section for detailed steps on setting up the Eventspot System.
+## Installation
+(This is a placeholder for the installation-text)
 
 ## Testing
 To ensure the reliability and performance of the Eventspot System, the following testing methodologies are employed:
