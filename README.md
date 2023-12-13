@@ -1,4 +1,6 @@
-# Eventspot System
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hypergeek-dev/Eventspot-System/main/static/Eventspot_logo.webp?token=GHSAT0AAAAAACHWGUILZ6XDVY4EMRBZJPFCZL2HGYA" alt="Eventspot Logo"/>
+</p>
 
 ## Table of Contents
 1. [Background](#background)
